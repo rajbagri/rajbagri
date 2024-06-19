@@ -13,6 +13,8 @@
 <a href="https://www.naukri.com/code360/profile/raj123" rel="nofollow"><img align="center" src="https://th.bing.com/th?id=ODLS.aa04fe21-e23f-428e-8a72-e1428b294905&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="https://www.naukri.com/code360/profile/raj123" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2283f418e01893d7375f413bbd117aa3de771821151218f56f6b7d3575025b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7072616268617632372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/e2283f418e01893d7375f413bbd117aa3de771821151218f56f6b7d3575025b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7072616268617632372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="rajbagri" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=rajbagri&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
+
 <!---
 rajbagri/rajbagri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
