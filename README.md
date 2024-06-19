@@ -13,7 +13,9 @@
 <a href="https://www.naukri.com/code360/profile/raj123" rel="nofollow"><img align="center" src="https://th.bing.com/th?id=ODLS.aa04fe21-e23f-428e-8a72-e1428b294905&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="https://www.naukri.com/code360/profile/raj123" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2283f418e01893d7375f413bbd117aa3de771821151218f56f6b7d3575025b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7072616268617632372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/e2283f418e01893d7375f413bbd117aa3de771821151218f56f6b7d3575025b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7072616268617632372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="rajbagri" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=rajbagri&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
+<a href="https://github.com/rajbagri">
+    <img align="center" src="https://camo.githubusercontent.com/02ae7620f7111d08e67fb5f6a39358a940624e48d6d1105db1268735fa8be9f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d727564726132393031266c61796f75743d636f6d7061637426686964655f626f726465723d7472756526686964653d4a7570797465722532304e6f7465626f6f6b2c546578266c616e67735f636f756e743d38267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbagri&amp;layout=compact&amp;hide_border=true&amp;hide=Jupyter%20Notebook,Tex&amp;langs_count=8&amp;theme=radical" style="max-width: 100%;">
+</a>
 
 <!---
 rajbagri/rajbagri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
