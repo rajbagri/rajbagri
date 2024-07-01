@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 - Hi 👋, I'm Raj Bagri
 - 🎓Computer Science Undergrad at NIT Bhopal
 - 🔭Currently working on App Dev
