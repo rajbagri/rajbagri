@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 - Hi 👋, I'm Raj Bagri
 - 🎓Computer Science Undergrad at NIT Bhopal
 - 🔭Currently working on App Dev
